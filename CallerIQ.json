@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "maintenance": false,
+  "latestVersion": "1.0.0",
+  "minimumVersion": "1.0.0",
+  "forceUpdate": false,
+  "notice": "Welcome to CallerIQ - Premium Caller ID",
+  "download": "https://github.com/anbuinfosec/CallerIQApp",
+  "api": ""
+}
