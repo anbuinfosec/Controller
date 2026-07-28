@@ -1,10 +1,11 @@
 {
   "status": true,
   "maintenance": false,
-  "latestVersion": "1.0.0",
-  "minimumVersion": "1.0.0",
+  "latestVersion": "1.0.1",
+  "minimumVersion": "1.0.1",
   "forceUpdate": false,
-  "notice": "Welcome to CallerIQ - Premium Caller ID",
-  "download": "https://github.com/anbuinfosec/CallerIQApp",
-  "api": ""
+  "notice": "Welcome to CallerIQ v1.0.1 - Premium Caller ID & Spam Detection",
+  "download": "https://github.com/anbuinfosec/CallerIQ-App/releases/download/v1.0.1/CallerIQ_v1.0.1.apk",
+  "updateMsg": "- Increment version to 1.0.1\n- Configure FileProvider for APK installation\n- Add REQUEST_INSTALL_PACKAGES permission\n- Enhance network service with retry logic and headers\n- Improve phone number resolution logic for lookups",
+  "api": "https://tc.anbu-sudo.workers.dev"
 }
