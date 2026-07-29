@@ -1,12 +1,24 @@
 {
   "version_code": 1,
-  "version_name": "1.1.0",
-  "update_required": true,
-  "title": "Critical Latent App Update Required",
-  "message": "A required update for India's Got Latent is available. Please update to continue streaming with dynamic qualities, buffer failover, and new season 2 episodes.",
+  "version_name": "1.0.0",
+  "update_required": false,
+  "title": "Welcome to India's Got Latent",
+  "message": "Thanks for installing the first public release of India's Got Latent! Enjoy a premium streaming experience with a modern player, dynamic stream quality, favorites, continue watching, and regular updates.",
   "changelog": [
+    "🎉 Initial public release",
+    "🎬 Stream all available episodes",
+    "⚡ Dynamic stream quality from API",
+    "📺 Advanced ExoPlayer with Picture-in-Picture",
+    "🔄 Continue Watching support",
+    "⭐ Favorite episodes",
+    "🔍 Fast episode search",
+    "📥 Download support",
+    "🎨 Premium Glass UI",
+    "🌙 Dark Mode & Material You",
+    "🚀 Improved performance and stability",
+    "🛡️ Enhanced security and Worker API integration"
   ],
-  "download_url": "https://t.me/AnbuSoft",
+  "download_url": "https://igt.anbusoftbd.workers.dev/",
   "telegram_channel": "https://t.me/AnbuSoft",
   "min_supported_version_code": 1
 }
